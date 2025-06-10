@@ -27,7 +27,7 @@ const projects = [
     tags: ["NextJs", "Node.js", "PostgreSQL", "Socket.IO", "Redis", "Kafka", "ShadCn"],
     demoUrl: "https://github.com/surajm7/ChatCraze-backend",
     githubUrl: "https://github.com/surajm7/ChatCraze-backend",
-  },
+  }
 ];
 
 export const ProjectsSection = () => {
